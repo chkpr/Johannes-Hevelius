@@ -1,0 +1,98 @@
+body {
+    background: #1d1a17;
+}
+
+h1 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 6em;
+}
+
+.portrait {
+    border-radius: 80%;
+    filter: contrast(115%);
+    filter: saturate(120%);
+
+}
+
+.copper-brown {
+    background-color: #B57F50;
+}
+
+.dantzig-1643 {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.text-copper-brown {
+    color: #B57F50;
+}
+
+
+.dantzig-cruger {
+    border-radius: 100px;
+
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+
+}
+
+.detour {
+    border-color: #ccff15;
+    border-width: 2px;
+    border-radius: 200px;
+}
+
+
+
+.tournant {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+}
+
+.quadrant {
+    border-radius: 120px 120px 0 0;
+}
+
+.retour {
+    background-color: #715d49;
+}
+
+
+@media (min-width: 600px) {
+    .mobile-show {
+        display: none;
+    }
+
+    .bigger-letters {
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 10em;
+    }
+}
+
+@media (max-width: 600px) {
+
+    .bigger-device-show {
+        display: none;
+    }
+
+    .smaller-letters {
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 6em;
+    }
+}
+
+@media (min-width:1000px) {
+    .medium-device-show {
+        display: none;
+    }
+
+    .show {
+        display: block;
+    }
+}
