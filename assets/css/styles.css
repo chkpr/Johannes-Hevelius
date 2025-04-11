@@ -92,12 +92,16 @@ a {
         font-size: 6em;
     }
 
-        .chronologie {
-            font-family: "Bebas Neue", sans-serif;
-            font-weight: 400;
-            font-style: normal;
-            font-size: 2em;
+    .chronologie {
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 2em;
         }
+    
+    .add-mobile-margin {
+        margin-top: 10px;
+    }
 }
 
 @media (min-width:1000px) {
