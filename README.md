@@ -14,5 +14,5 @@ For training purposes, the site is deployed on Heroku at the following address: 
 # Currently being added
 
 - Legal notice and contact
-- About us
+- About page
 - Additional elements on home page
