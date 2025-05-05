@@ -9,10 +9,6 @@ The page briefly introduces the life and work of 17th-century Polish astronomer 
 
 Clone the repository and open the index.html file in your web browser.
 
-## Online availability
-
-For training purpose, the site is deployed on Heroku at the following address: https://vast-wave-50202-b22cc0729cd8.herokuapp.com/
-
 ## Currently being added
 
 - Additional elements on home page
